@@ -2638,7 +2638,8 @@ body {
   }
 
   .footer__disclaimer {
-    height: 90px
+    /*height: 90px*/
+    height: inherit;
   }
 
   .footer_bottom {
