@@ -1415,7 +1415,7 @@ body {
 
 .footer__disclaimer {
   width: 100%;
-  height: 350px
+  /*height: 350px*/
 }
 
 .footer__disclaimer img {
