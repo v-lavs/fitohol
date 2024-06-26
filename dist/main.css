@@ -2313,6 +2313,9 @@ body {
   .section-banner .section__title {
     font-size: 36px;
   }
+  .section-about .part_right {
+    padding: 0 35px 0 80px;
+  }
 }
 
 @media only screen and (max-width: 1200px) {
