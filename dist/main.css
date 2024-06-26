@@ -2102,7 +2102,7 @@ body {
 
 .post .label {
   display: block;
-  line-height: 130%;
+  line-height: 110%;
   color: #ff7330;
   margin-bottom: 16px
 }
@@ -2113,6 +2113,10 @@ body {
 
 .post sup {
   font-size: .6em
+}
+
+.post__text {
+  font-size: 22px;
 }
 
 .section-note {
